@@ -1,0 +1,6 @@
+C:\Users\sishi\Documents\WindowsPowerShell\temp\01.txt
+C:\Users\sishi\Documents\WindowsPowerShell\temp\02.txt
+C:\Users\sishi\Documents\WindowsPowerShell\temp\03.txt
+C:\Users\sishi\Documents\WindowsPowerShell\temp\04.txt
+C:\Users\sishi\Documents\WindowsPowerShell\temp\05.txt
+C:\Users\sishi\Documents\WindowsPowerShell\temp\06.txt

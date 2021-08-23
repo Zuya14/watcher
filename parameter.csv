@@ -1,0 +1,4 @@
+copy_path, Dist
+start_deg, 0
+end_deg, 20
+deg_step, 10
