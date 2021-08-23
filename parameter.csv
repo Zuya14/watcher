@@ -1,4 +1,4 @@
 copy_path, Dist
 start_deg, 0
-end_deg, 20
+end_deg, 360
 deg_step, 10
