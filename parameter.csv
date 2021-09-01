@@ -1,4 +1,9 @@
-copy_path, Dist
-start_deg, 0
-end_deg, 360
-deg_step, 10
+copy_path,20210826_05
+check_time,100
+margin_time,500
+finish_wait,500
+start_deg,0
+end_deg,10
+deg_step,10
+repeat,1
+restart,1

@@ -1,6 +1,2 @@
-C:\Users\sishi\Documents\WindowsPowerShell\watcher\temp\01.txt
-C:\Users\sishi\Documents\WindowsPowerShell\watcher\temp\02.txt
-C:\Users\sishi\Documents\WindowsPowerShell\watcher\temp\03.txt
-C:\Users\sishi\Documents\WindowsPowerShell\watcher\temp\04.txt
-C:\Users\sishi\Documents\WindowsPowerShell\watcher\temp\05.txt
-C:\Users\sishi\Documents\WindowsPowerShell\watcher\temp\06.txt
+C:\workspace\watcher\temp\01.txt
+C:\workspace\watcher\temp\02.txt
